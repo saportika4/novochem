@@ -3101,3 +3101,9 @@ Main Header Five Css
   max-width: 1350px;
   width: 100%;
 }
+
+.single-product-style1__img img {
+  max-height: 400px;
+  min-height: 400px;
+  object-fit: cover;
+}

@@ -3658,7 +3658,7 @@ Slider All Responsice Css
 
 @media only screen and (min-width: 1200px) and (max-width: 1550px) {
     .main-slider-one__single .container {
-        padding-left: 105px;
+        /* padding-left: 105px; */
     }
 
 
