@@ -3108,7 +3108,7 @@ Main Header Five Css
   object-fit: cover;
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 600px) {
   .single-product-style1__img img {
     max-height: 220px;
     min-height: 220px;
