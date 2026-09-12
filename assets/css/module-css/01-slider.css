@@ -16,7 +16,7 @@ Main Slider One
     bottom: 0;
     right: 0;
     background: var(--cleanin-black);
-    background-blend-mode: luminosity;
+    /* background-blend-mode: luminosity; */
     background-attachment: scroll;
     background-size: cover;
     background-repeat: no-repeat;
