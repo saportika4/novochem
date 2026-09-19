@@ -3119,7 +3119,7 @@ Main Header Five Css
 .whatsapp {
   position: fixed;
   bottom: 70px;
-  left: 22px;
+  right: 22px;
   z-index: 999;
 }
 
