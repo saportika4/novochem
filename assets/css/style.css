@@ -932,7 +932,7 @@ Scroll To Top Css
   background: transparent;
   position: fixed;
   bottom: 60px;
-  right: -12px;
+  left: -12px;
   z-index: 99;
   text-align: center;
   opacity: 0;
